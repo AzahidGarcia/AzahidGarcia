@@ -1,56 +1,16 @@
-<div align="center">
+## Hi, I'm Aza — AI Engineer (LLM Evaluation · Agentic Systems)
 
-```
-▸ STRIVARK
-```
+I build AI products and the evaluation infrastructure that keeps them honest.
 
-### Software Engineer · AI Integration · Data Engineering · Workflow Automation
-**Mexico City · GMT-6 · EN/ES**
+**Flagship:** [llm-judge-calibration](https://github.com/AzahidGarcia/llm-judge-calibration) — an LLM-as-judge
+calibration harness. An additive rubric scored a ~55%-fit item at 93%; redesigning the judge as
+deduction-based cut false positives 73%→9% and lifted precision 53%→89% on labeled data (n=20).
+Replay mode reproduces every result without API keys. Full write-up:
+[case study](https://portfolio-azahid-garcia.vercel.app/research).
 
-[![Website](https://img.shields.io/badge/strivark.com-00C9A7?style=flat-square&logo=safari&logoColor=0D1117)](https://strivark.com)
-[![Email](https://img.shields.io/badge/hello@strivark.com-00C9A7?style=flat-square&logo=gmail&logoColor=0D1117)](mailto:hello@strivark.com)
+**Elsewhere:** adversarial evals for frontier models (Terminal Bench 3.0 @ Outlier) ·
+founder @ [Strivark](https://strivark.com) · MCP tooling (agent-to-tool bridge, 15 tool categories).
 
-</div>
+**Stack:** Python · TypeScript/Next.js · PostgreSQL/Supabase · Claude API · Pydantic AI · MCP
 
----
-
-### What I build
-
-```python
-stack = {
-    "languages":    ["Python 3.11+", "TypeScript", "SQL", "Java"],
-    "ai":           ["Pydantic AI", "Anthropic API", "OpenAI API", "Ollama"],
-    "automation":   ["n8n", "custom orchestrators", "REST API integration"],
-    "web":          ["Next.js 14", "FastAPI", "Supabase", "Stripe"],
-    "data":         ["PostgreSQL", "ETL pipelines", "DuckDB", "Pandas"],
-    "infra":        ["Docker", "GitHub Actions", "Vercel", "Cloudflare"],
-}
-```
-
----
-
-### Active projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [invoice-pdf-automation](https://github.com/AzahidGarcia/invoice-pdf-automation) | Automated invoice PDF generation for SMBs | Python · ReportLab · OpenPyXL |
-| [llm-api-integration-pipeline](https://github.com/AzahidGarcia/llm-api-integration-pipeline) | OpenAI + Claude API integration pipeline | Python · Pydantic · REST |
-| [python-csv-report-automation](https://github.com/AzahidGarcia/python-csv-report-automation) | CSV processing and Excel report generation | Python · Pandas · OpenPyXL |
-| [python-data-cleaning-pipeline](https://github.com/AzahidGarcia/python-data-cleaning-pipeline) | Automated data cleaning and validation | Python · Pandas · DuckDB |
-
----
-
-### Background
-
-4+ years building data infrastructure and process automation for enterprise logistics operations across LATAM.
-Experience in SQL pipeline design, environment homologation (dev → staging → prod), and QA automation for SaaS teams.
-
-Currently focused on **AI integration** and **workflow automation** for businesses in Mexico and globally through [Strivark](https://strivark.com).
-
----
-
-<div align="center">
-
-**Build forward. Stand firm.**
-
-</div>
+📍 Mexico City → open to relocation (EU/UK) · [Portfolio](https://portfolio-azahid-garcia.vercel.app) · [LinkedIn](https://linkedin.com/in/azahidgarcia)
